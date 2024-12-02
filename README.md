@@ -1,3 +1,4 @@
+
 #Toy Problems
 
 This repositor includes solutions to toy problems impemented in JavaScript. One can easily use the following to practise on the various skills learned in JavaScript.
